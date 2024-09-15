@@ -5,7 +5,7 @@ This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and 
 
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
-## Official Docs
+## OpenAI Docs
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px"> 
 
@@ -35,7 +35,7 @@ format:
   - code
   - experimental environments and datasets
 ```
-### Relevant Paper from OpenAI o1 [contributors}(https://openai.com/openai-o1-contributions/)
+### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
