@@ -99,7 +99,13 @@ format:
 ### 2021
 - [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
+- [Scaling Scaling Laws with Board Games](http://arxiv.org/abs/2104.03113)
+  - Andy L. Jones.
  
+### 2017
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815v1)
+  - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis. 
+
 ## Evaluation
 - [AryanDLuffy] [codeforces](https://codeforces.com/blog/entry/133962)
 
