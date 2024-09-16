@@ -88,6 +88,10 @@ format:
   - Dan Zhang, Sining Zhoubian, Yisong Yue, Yuxiao Dong, and Jie Tang.
 - [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451)
   - Yuxi Xie, Anirudh Goyal, Wenyue Zheng, Min-Yen Kan, Timothy P. Lillicrap, Kenji Kawaguchi, Michael Shieh.
+- [ARES - Alternating Reinforcement Learning and Supervised Fine-Tuningfor Enhanced Multi-Modal Chain-of-Thought ReasoningThrough Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
+  - Ju-Seung Byun, Jiyun Chun, Jihyung Kil, Andrew Perrault
+- [KTO - Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306)
+  - Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela
  
 ### 2023
 - [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179)
@@ -96,7 +100,8 @@ format:
   - Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu
 - [Don’t throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding](https://arxiv.org/abs/2309.15028)
   - Liu, Jiacheng, Andrew Cohen, Ramakanth Pasunuru, Yejin Choi, Hannaneh Hajishirzi, and Asli Celikyilmaz.
-    
+- [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/pdf/2312.02179)
+  - Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous
 
 ### 2022
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
