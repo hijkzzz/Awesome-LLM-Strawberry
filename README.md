@@ -52,6 +52,8 @@ format:
   - Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike
 - [Self-critiquing models for assisting human evaluators](https://arxiv.org/pdf/2206.05802) 
   - William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
+- [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
+  - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
 
 ### 2024
 - [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
@@ -115,8 +117,6 @@ format:
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
     
 ### 2021
-- [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
-  - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
 - [Scaling Scaling Laws with Board Games](http://arxiv.org/abs/2104.03113)
   - Andy L. Jones.
 - [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/pdf/2112.00114)
