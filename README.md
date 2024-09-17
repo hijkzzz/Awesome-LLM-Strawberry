@@ -93,6 +93,8 @@ format:
   - Zhiyuan Li, Hong Liu, Denny Zhou, Tengyu Ma.
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
   - Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li
+- [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
+  - Xuezhi Wang, Denny Zhou
  
 ### 2023
 - [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/pdf/2312.02179)
@@ -103,7 +105,8 @@ format:
   - Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu
 - [Don’t throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding](https://arxiv.org/abs/2309.15028)
   - Liu, Jiacheng, Andrew Cohen, Ramakanth Pasunuru, Yejin Choi, Hannaneh Hajishirzi, and Asli Celikyilmaz.
-    
+- [Certified reasoning with language models](https://arxiv.org/pdf/2306.04031)
+  - Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman     
 
 ### 2022
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
@@ -116,6 +119,8 @@ format:
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
 - [Scaling Scaling Laws with Board Games](http://arxiv.org/abs/2104.03113)
   - Andy L. Jones.
+- [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/pdf/2112.00114)
+  - Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
  
 ### 2017
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815v1)
