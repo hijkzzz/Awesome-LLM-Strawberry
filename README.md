@@ -93,6 +93,8 @@ format:
   - Zhiyuan Li, Hong Liu, Denny Zhou, Tengyu Ma.
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
   - Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li
+- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/pdf/2402.12875)
+  - Zhiyuan Li, Hong Liu, Denny Zhou, and Tengyu Ma
  
 ### 2023
 - [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/pdf/2312.02179)
