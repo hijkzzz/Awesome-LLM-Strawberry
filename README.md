@@ -124,7 +124,10 @@ format:
  
 ### 2017
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815v1)
-  - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis. 
+  - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.
+
+## Projects
+- [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 
 ## Evaluation
 - [AryanDLuffy] [codeforces](https://codeforces.com/blog/entry/133962)
