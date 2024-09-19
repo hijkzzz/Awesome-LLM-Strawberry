@@ -27,6 +27,10 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/fbbf78e4-d34c-4b7b-8163-f8c7288f56a6" width="300px">
 - <img src="https://github.com/user-attachments/assets/cb1cc1e6-35d4-4567-891a-4e5aca8fa175" width="300px">
 - <img src="https://github.com/user-attachments/assets/d3fd109b-0c97-4a94-931e-919b3b2f75f4" width="300px">
+- [[Vincent Koc]](https://x.com/vincent_koc)
+- [![image](https://github.com/user-attachments/assets/acd2f4fe-854d-4ecc-84d3-1a484f585447)](https://x.com/vincent_koc/status/1834439551844319609)
+- [![image](https://github.com/user-attachments/assets/2ff373ce-a3db-46bc-ac15-c5c7d4b799de)](https://x.com/vincent_koc/status/1834440019580456971)
+
 
 
 ## Papers
