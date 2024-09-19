@@ -115,6 +115,8 @@ format:
   - Mengjiao Yang, Dale Schuurmans, Pieter Abbeel, Ofir Nachum.
 - [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
+- [Solving math word problems with processand outcome-based feedback](https://arxiv.org/abs/2211.14275)
+  - Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia Creswell, Geoffrey Irving, Irina Higgins
     
 ### 2021
 - [Scaling Scaling Laws with Board Games](http://arxiv.org/abs/2104.03113)
@@ -130,5 +132,5 @@ format:
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 
 ## Evaluation
-- [AryanDLuffy] [codeforces](https://codeforces.com/blog/entry/133962)
+- ~~[AryanDLuffy] [codeforces](https://codeforces.com/blog/entry/133962)~~
 
