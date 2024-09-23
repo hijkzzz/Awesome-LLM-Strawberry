@@ -7,7 +7,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ## OpenAI Docs
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
-- <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px"> 
+- <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
 
 ## Blogs
@@ -56,7 +56,7 @@ format:
   - Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe
 - [LLM Critics Help Catch LLM Bugs](https://arxiv.org/abs/2407.00215)
   - Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike
-- [Self-critiquing models for assisting human evaluators](https://arxiv.org/pdf/2206.05802) 
+- [Self-critiquing models for assisting human evaluators](https://arxiv.org/pdf/2206.05802)
   - William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
 - [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
@@ -111,7 +111,7 @@ format:
   - Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
   - Xuezhi Wang, Denny Zhou
- 
+
 ### 2023
 - [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/pdf/2312.02179)
   - Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous
@@ -122,7 +122,7 @@ format:
 - [Don’t throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding](https://arxiv.org/abs/2309.15028)
   - Liu, Jiacheng, Andrew Cohen, Ramakanth Pasunuru, Yejin Choi, Hannaneh Hajishirzi, and Asli Celikyilmaz.
 - [Certified reasoning with language models](https://arxiv.org/pdf/2306.04031)
-  - Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman     
+  - Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman
 
 ### 2022
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
@@ -131,13 +131,13 @@ format:
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
 - [Solving math word problems with processand outcome-based feedback](https://arxiv.org/abs/2211.14275)
   - Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia Creswell, Geoffrey Irving, Irina Higgins
-    
+
 ### 2021
 - [Scaling Scaling Laws with Board Games](http://arxiv.org/abs/2104.03113)
   - Andy L. Jones.
 - [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/pdf/2112.00114)
   - Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
- 
+
 ### 2017
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815v1)
   - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.
@@ -149,4 +149,3 @@ format:
 ## Evaluation
 - ~~[AryanDLuffy] [Codeforces - O1-mini benchmark](https://codeforces.com/blog/entry/133962)~~
 - [Dominater069] [Codeforces - Analyzing how good O1-Mini actually is](https://codeforces.com/blog/entry/133887)
-
