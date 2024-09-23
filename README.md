@@ -111,6 +111,8 @@ format:
   - Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
   - Xuezhi Wang, Denny Zhou
+- [Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2406.09136)
+  - Xuan Zhang, Chao Du, Tianyu Pang, Qian Liu, Wei Gao, Min Lin
 
 ### 2023
 - [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/pdf/2312.02179)
