@@ -23,6 +23,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ## Talks
 - [Noam Brown] [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?app=desktop&v=eaAonE58sLU)
+- [Noam Brown] [OpenAI o1 and Teaching LLMs to Reason Better](https://www.youtube.com/watch?v=jPluSXJpdrA&t=1669s)
 - [Hyung Won Chung] [Don't teach. Incentivize.](https://www.youtube.com/watch?v=kYWUEV_e2ss)
 
 ## Twitter
