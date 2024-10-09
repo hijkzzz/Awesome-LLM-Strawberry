@@ -154,9 +154,8 @@ format:
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
-- [toyberry] [Toyberry: A end to end tiny implementation of OpenAI's o1 reasoning system using MCTS and LLM as backend](https://github.com/ack-sec/toyberry)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
+- [toyberry] [Toyberry: A end to end tiny implementation of OpenAI's o1 reasoning system using MCTS and LLM as backend](https://github.com/ack-sec/toyberry)
 
 ## Evaluation
-- ~~[AryanDLuffy] [Codeforces - O1-mini benchmark](https://codeforces.com/blog/entry/133962)~~
 - [Dominater069] [Codeforces - Analyzing how good O1-Mini actually is](https://codeforces.com/blog/entry/133887)
