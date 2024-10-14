@@ -66,6 +66,8 @@ format:
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
 
 ### 2024
+- [At Which Training Stage Does Code Data Help LLMs Reasoning?](https://arxiv.org/abs/2309.16298)
+  - Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li
 - [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
   - Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang
 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
