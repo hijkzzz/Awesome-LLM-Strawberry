@@ -66,6 +66,8 @@ format:
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
 
 ### 2024
+- [CPL: Critical Plan Step Learning Boosts LLM Generalization in Reasoning Tasks](https://arxiv.org/abs/2409.08642)
+  - Tianlong Wang, Junzhe Chen, Xueting Han, Jing Bai
 - [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
   - Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang
 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
