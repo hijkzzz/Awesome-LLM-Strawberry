@@ -20,6 +20,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Nathan Lambert] [Reverse engineering OpenAI’s o1](https://www.interconnects.ai/p/reverse-engineering-openai-o1)
 - [Andreas Stuhlmüller, jungofthewon] [Supervise Process, not Outcomes](https://www.alignmentforum.org/posts/pYcFPMBtQveAjcSfH/supervise-process-not-outcomes)
 - [Nouha Dziri] [Have o1 Models Cracked Human Reasoning?](https://substack.com/home/post/p-148782195)
+- [Wei Shen] [Generalization Progress in RLHF: Insights into the Impact of Reward Models and PPO](https://difficult-link-dd7.notion.site/4e0cbb325aaf458da710f0b36dbb239c?v=c9231e8c988b4d66a1d2dc34df4cf7b5)
 
 ## Talks
 - [Noam Brown] [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?app=desktop&v=eaAonE58sLU)
