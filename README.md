@@ -21,7 +21,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Andreas Stuhlmüller, jungofthewon] [Supervise Process, not Outcomes](https://www.alignmentforum.org/posts/pYcFPMBtQveAjcSfH/supervise-process-not-outcomes)
 - [Nouha Dziri] [Have o1 Models Cracked Human Reasoning?](https://substack.com/home/post/p-148782195)
 - [Wei Shen] [Generalization Progress in RLHF: Insights into the Impact of Reward Models and PPO](https://difficult-link-dd7.notion.site/4e0cbb325aaf458da710f0b36dbb239c?v=c9231e8c988b4d66a1d2dc34df4cf7b5)
-- [Rishabh Agarwal][Improving LLM Reasoning using Self-generated data: RL and Verifiers](https://rosanneliu.com/dlctfs/dlct_240531.pdf)
+- [Rishabh Agarwal] [Improving LLM Reasoning using Self-generated data: RL and Verifiers](https://rosanneliu.com/dlctfs/dlct_240531.pdf)
 - [Dominater069] [Codeforces - Analyzing how good O1-Mini actually is](https://codeforces.com/blog/entry/133887)
 
 ## Talks
