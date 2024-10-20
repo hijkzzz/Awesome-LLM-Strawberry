@@ -74,6 +74,8 @@ format:
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
 
 ### 2024
+- [When is Tree Search Useful for LLM Planning? It Depends on the Discriminator](https://arxiv.org/abs/2402.10890)
+  - Ziru Chen, Michael White, Raymond Mooney, Ali Payani, Yu Su, Huan Sun
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
   - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://www.arxiv.org/abs/2408.16737)
