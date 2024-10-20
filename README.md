@@ -74,8 +74,6 @@ format:
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
 
 ### 2024
-- [When is Tree Search Useful for LLM Planning? It Depends on the Discriminator](https://arxiv.org/abs/2402.10890)
-  - Ziru Chen, Michael White, Raymond Mooney, Ali Payani, Yu Su, Huan Sun
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
   - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://www.arxiv.org/abs/2408.16737)
@@ -119,6 +117,8 @@ format:
   - Jikun Kang, Xin Zhe Li, Xi Chen, Amirreza Kazemi, Qianyi Sun, Boxing Chen, Dong Li, Xu He, Quan He, Feng Wen, Jianye Hao, Jun Yao.
 - [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451)
   - Yuxi Xie, Anirudh Goyal, Wenyue Zheng, Min-Yen Kan, Timothy P. Lillicrap, Kenji Kawaguchi, Michael Shieh.
+- [When is Tree Search Useful for LLM Planning? It Depends on the Discriminator](https://arxiv.org/abs/2402.10890)
+  - Ziru Chen, Michael White, Raymond Mooney, Ali Payani, Yu Su, Huan Sun
 - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
   - Zhiyuan Li, Hong Liu, Denny Zhou, Tengyu Ma.
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
