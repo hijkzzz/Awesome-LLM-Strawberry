@@ -202,3 +202,4 @@ format:
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
 - [toyberry] [Toyberry: A end to end tiny implementation of OpenAI's o1 reasoning system using MCTS and LLM as backend](https://github.com/ack-sec/toyberry)
+- [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
