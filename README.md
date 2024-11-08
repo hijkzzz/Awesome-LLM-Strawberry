@@ -72,6 +72,8 @@ format:
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
 - [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318)
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
+- [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
+  - Scott McKinney
 
 ### 2024
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
