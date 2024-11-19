@@ -34,6 +34,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 <summary>OpenAI Developers</summary>
   
 - [We’re hosting an AMA for developers from 10–11 AM PT today.](https://x.com/OpenAIDevs/status/1834608585151594537)
+
+- <img src="https://github.com/user-attachments/assets/8d33afdb-39ec-4c76-ab27-d132ea913c3e" width="300px">
+
   
 </details>
 
