@@ -9,7 +9,6 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
-
 ## Blogs
 
 - [OpenAI] [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
@@ -66,7 +65,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 </details>
 
-
+## News
+- [DeepSeek] [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://api-docs.deepseek.com/news/news1120)
+- [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
 
 
 ## Papers
