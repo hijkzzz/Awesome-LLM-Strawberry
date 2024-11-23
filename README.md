@@ -15,14 +15,14 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [OpenAI] [OpenAI o1-mini Advancing cost-efficient reasoning](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning)
 - [OpenAI] [Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
 - [Tibor Blaho] [Summary of what we have learned during AMA hour with the OpenAI o1 team](https://twitter-thread.com/t/1834686946846597281)
+- [hijkzzz] [Exploring OpenAI O1 Model Replication: From Kimi K0-Math to DeepSeek R1 Lite](https://sage-kite-7e1.notion.site/exploring-openai-o1-model-replication)
 - [Nathan Lambert] [OpenAI’s Strawberry, LM self-talk, inference scaling laws, and spending more on inference](https://www.interconnects.ai/p/openai-strawberry-and-inference-scaling-laws)
 - [Nathan Lambert] [Reverse engineering OpenAI’s o1](https://www.interconnects.ai/p/reverse-engineering-openai-o1)
 - [Andreas Stuhlmüller, jungofthewon] [Supervise Process, not Outcomes](https://www.alignmentforum.org/posts/pYcFPMBtQveAjcSfH/supervise-process-not-outcomes)
 - [Nouha Dziri] [Have o1 Models Cracked Human Reasoning?](https://substack.com/home/post/p-148782195)
 - [Rishabh Agarwal] [Improving LLM Reasoning using Self-generated data: RL and Verifiers](https://rosanneliu.com/dlctfs/dlct_240531.pdf)
-- [Dominater069] [Codeforces - Analyzing how good O1-Mini actually is](https://codeforces.com/blog/entry/133887)
 - [Wei Shen] [Generalization Progress in RLHF: Insights into the Impact of Reward Models and PPO](https://difficult-link-dd7.notion.site/4e0cbb325aaf458da710f0b36dbb239c?v=c9231e8c988b4d66a1d2dc34df4cf7b5)
-- [hijkzzz] [Exploring OpenAI O1 Model Replication: From Kimi K0-Math to DeepSeek R1 Lite](https://sage-kite-7e1.notion.site/exploring-openai-o1-model-replication)
+- [Dominater069] [Codeforces - Analyzing how good O1-Mini actually is](https://codeforces.com/blog/entry/133887)
 
 ## Talks
 - [Noam Brown] [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?app=desktop&v=eaAonE58sLU)
