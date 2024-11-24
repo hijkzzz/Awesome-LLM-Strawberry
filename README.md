@@ -232,6 +232,7 @@ format:
   - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.
 
 ## Projects
+- [SimpleBerry] [LLaMA-O1: Open Large Reasoning Model Frameworks For Training, Inference and Evaluation With PyTorch and HuggingFace](https://github.com/SimpleBerry/LLaMA-O1)
 - [openreasoner] [OpenR](https://openreasoner.github.io/)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
