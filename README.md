@@ -15,7 +15,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [OpenAI] [OpenAI o1-mini Advancing cost-efficient reasoning](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning)
 - [OpenAI] [Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
 - [Tibor Blaho] [Summary of what we have learned during AMA hour with the OpenAI o1 team](https://twitter-thread.com/t/1834686946846597281)
-- [hijkzzz] [Exploring OpenAI O1 Model Replication: From Kimi K0-Math to DeepSeek R1 Lite](https://sage-kite-7e1.notion.site/exploring-openai-o1-model-replication)
+- [hijkzzz] [Exploring OpenAI O1 Model Replication](https://sage-kite-7e1.notion.site/exploring-openai-o1-model-replication)
 - [Nathan Lambert] [OpenAI’s Strawberry, LM self-talk, inference scaling laws, and spending more on inference](https://www.interconnects.ai/p/openai-strawberry-and-inference-scaling-laws)
 - [Nathan Lambert] [Reverse engineering OpenAI’s o1](https://www.interconnects.ai/p/reverse-engineering-openai-o1)
 - [Andreas Stuhlmüller, jungofthewon] [Supervise Process, not Outcomes](https://www.alignmentforum.org/posts/pYcFPMBtQveAjcSfH/supervise-process-not-outcomes)
