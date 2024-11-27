@@ -232,11 +232,11 @@ format:
   - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.
 
 ## Projects
-- [openreasoner] [OpenR](https://openreasoner.github.io/)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
+- [Skywork] [Skywork-o1]((https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
+- [openreasoner] [OpenR](https://openreasoner.github.io/)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
-- [toyberry] [Toyberry: A end to end tiny implementation of OpenAI's o1 reasoning system using MCTS and LLM as backend](https://github.com/ack-sec/toyberry)
 - [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
