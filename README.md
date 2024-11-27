@@ -234,7 +234,7 @@ format:
 ## Projects
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
-- [Skywork] [Skywork-o1]((https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
+- [Skywork] [Skywork-o1](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
 - [openreasoner] [OpenR](https://openreasoner.github.io/)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
