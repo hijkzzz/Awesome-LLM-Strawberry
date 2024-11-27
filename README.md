@@ -32,17 +32,17 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ## Twitter
 <details>
 <summary>OpenAI Developers</summary>
-  
+
 - [We’re hosting an AMA for developers from 10–11 AM PT today.](https://x.com/OpenAIDevs/status/1834608585151594537)
 
 - <img src="https://github.com/user-attachments/assets/8d33afdb-39ec-4c76-ab27-d132ea913c3e" width="300px">
 
-  
+
 </details>
 
 <details>
 <summary>Noam Brown</summary>
-  
+
 - <img src="https://github.com/user-attachments/assets/4670514c-e6fa-474f-abea-c3f6ad01e41a" width="300px">
 - <img src="https://github.com/user-attachments/assets/b390ccea-9773-4a96-ba02-40d917473402" width="300px">
 - <img src="https://github.com/user-attachments/assets/aa0678fa-28eb-4b2a-a6ff-c0d123568f22" width="300px">
@@ -240,3 +240,4 @@ format:
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
 - [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
+- [Saplings] [Smarter agents using tree search algorithms](https://github.com/shobrook/saplings)
