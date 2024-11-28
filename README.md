@@ -71,15 +71,15 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
 
 
-## Open-source Projects
-**Models**
+## Open-source
+### Models
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
 - [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
 
-**Code and Others**
+### Codebase and Others
 - [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
