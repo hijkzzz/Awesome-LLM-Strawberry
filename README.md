@@ -69,7 +69,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ## News
 - [DeepSeek] [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://api-docs.deepseek.com/news/news1120)
 - [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
-
+- [InternLM] [强推理模型书生InternThinker开放体验：自主生成高智力密度数据、具备元动作思考能力｜通专融合探索新进展](https://mp.weixin.qq.com/s/l7fdHlETvhKgZmUl23EiRA)
 
 ## Open-source
 ### Models
