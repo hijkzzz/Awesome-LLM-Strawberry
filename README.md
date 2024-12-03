@@ -124,6 +124,8 @@ format:
   - Scott McKinney
 
 ### 2024
+- [Interpretable Contrastive Monte Carlo Tree Search Reasoning](https://arxiv.org/abs/2410.01707)
+  - Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
   - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://www.arxiv.org/abs/2408.16737)
