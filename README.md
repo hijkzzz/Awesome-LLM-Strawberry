@@ -124,6 +124,8 @@ format:
   - Scott McKinney
 
 ### 2024
+- [Reasoning Paths Optimization: Learning to Reason and Explore From Diverse Paths](https://arxiv.org/abs/2410.10858)
+  - Yew Ken Chia, Guizhen Chen, Weiwen Xu, Luu Anh Tuan, Soujanya Poria, Lidong Bing
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
   - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://www.arxiv.org/abs/2408.16737)
