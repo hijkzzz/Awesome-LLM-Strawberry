@@ -125,6 +125,8 @@ format:
   - Scott McKinney
 
 ### 2024
+- [Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering](https://arxiv.org/abs/2411.11504)
+  - Xinyan Guan, Yanjiang Liu, Xinyu Lu, Boxi Cao, Ben He, Xianpei Han, Le Sun, Jie Lou, Bowen Yu, Yaojie Lu, Hongyu Lin
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
   - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
