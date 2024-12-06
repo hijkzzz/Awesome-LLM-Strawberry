@@ -80,7 +80,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
 - [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
-- [Macro-o1] [Macro-o1](https://github.com/AIDC-AI/Marco-o1)
+- [Marco-o1] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
 
 ### Codebase and Others
 - [openreasoner] [OpenR](https://github.com/openreasoner/openr)
