@@ -31,7 +31,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Hyung Won Chung] [Don't teach. Incentivize.](https://www.youtube.com/watch?v=kYWUEV_e2ss)
 
 ## Twitter
-<details>
+<details open>
 <summary>OpenAI Developers</summary>
 
 - [Today we previewed Reinforcement Fine-Tuning](https://x.com/OpenAI/status/1865136373491208674)
