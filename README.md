@@ -52,7 +52,8 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 <details>
 <summary>Jason Wei</summary>
-
+  
+- <img src="https://github.com/user-attachments/assets/fcf1ffa7-9e92-4cb6-afd4-ba6c14f3ae32" width="300px">
 - <img src="https://github.com/user-attachments/assets/0f84796d-ae11-4c50-a681-e1b33aa152d9" width="300px">
 - <img src="https://github.com/user-attachments/assets/fbbf78e4-d34c-4b7b-8163-f8c7288f56a6" width="300px">
 
