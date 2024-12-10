@@ -81,12 +81,12 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
 - [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
-- [Marco-o1] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
+- [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
 
 ### Codebase and Others
 - [openreasoner] [OpenR](https://github.com/openreasoner/openr)
-- [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
 
