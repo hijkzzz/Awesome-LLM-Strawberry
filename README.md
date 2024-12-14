@@ -10,10 +10,10 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
 ## Blogs
-
 - [OpenAI] [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 - [OpenAI] [OpenAI o1-mini Advancing cost-efficient reasoning](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning)
 - [OpenAI] [Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
+- [SemianAlysis] [Scaling Laws – O1 Pro Architecture, Reasoning Training Infrastructure, Orion and Claude 3.5 Opus “Failures” ](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)
 - [Tibor Blaho] [Summary of what we have learned during AMA hour with the OpenAI o1 team](https://twitter-thread.com/t/1834686946846597281)
 - [hijkzzz] [Exploring OpenAI O1 Model Replication](https://hijkzzz.notion.site/exploring-openai-o1-model-replication?pvs=74)
 - [hijkzzz] [A Survey of Reinforcement Learning from Human Feedback (RLHF)](https://hijkzzz.notion.site/a-survey-of-rlhf?pvs=74)
