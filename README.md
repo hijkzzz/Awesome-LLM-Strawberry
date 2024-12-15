@@ -185,6 +185,8 @@ format:
   - Zhiyuan Li, Hong Liu, Denny Zhou, Tengyu Ma.
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
   - Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett
+- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
+  - Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian 
 - [Do Large Language Models Latently Perform Multi-Hop Reasoning?](https://arxiv.org/abs/2402.16837)
   - Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
