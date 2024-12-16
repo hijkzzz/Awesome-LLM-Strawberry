@@ -74,7 +74,8 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
 - [Moonshoot] [Kimi 发布视觉思考模型 k1，多项理科测试行业领先](https://mp.weixin.qq.com/s/8cip3dehL8OIfZSnbZ1ftQ)
 - [InternLM] [强推理模型书生InternThinker开放体验：自主生成高智力密度数据、具备元动作思考能力](https://mp.weixin.qq.com/s/l7fdHlETvhKgZmUl23EiRA)
-
+- [InternLM] [万字独家爆光，首揭o1 pro架构！惊人反转，Claude 3.5 Opus没失败？](https://mp.weixin.qq.com/s/LozJEE1sAAYAOrEFDVb6mg)
+- 
 ## Open-source
 ### Models
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
