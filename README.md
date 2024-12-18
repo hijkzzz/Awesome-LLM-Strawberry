@@ -106,6 +106,8 @@ format:
 ```
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
+- [Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2410.10735)
+  - Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li
 - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
   - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
