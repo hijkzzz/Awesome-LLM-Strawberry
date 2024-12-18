@@ -192,6 +192,8 @@ format:
   - Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
   - Xuezhi Wang, Denny Zhou
+- [SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World](https://arxiv.org/pdf/2412.07472)
+  - Jiaqi Zhang, Chen Gao, Liyuan Zhang, Yong Li, Hongzhi Yin
 - [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
   - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
 - [Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2406.09136)
