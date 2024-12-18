@@ -34,7 +34,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 <details open>
 <summary>OpenAI Developers</summary>
 
-- [All the questions addressed by the API team during the December 17, 2024 AMA]https://community.openai.com/t/all-the-questions-addressed-by-the-api-team-during-the-december-17-2024-ama/1059780)
+- [All the questions addressed by the API team during the December 17, 2024 AMA](https://community.openai.com/t/all-the-questions-addressed-by-the-api-team-during-the-december-17-2024-ama/1059780)
 - [We’re hosting an AMA for developers from 10–11 AM PT today.](https://x.com/OpenAIDevs/status/1834608585151594537)
 - [Today we previewed Reinforcement Fine-Tuning](https://x.com/OpenAI/status/1865136373491208674)
 - <img src="https://github.com/user-attachments/assets/8d33afdb-39ec-4c76-ab27-d132ea913c3e" width="300px">
