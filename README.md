@@ -1,5 +1,5 @@
   # Awesome LLM Strawberry (OpenAI o1)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=hijkzzz.awesome-llm-strawberry&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/hijkzzz/Awesome-LLM-Strawberry?color=9cf) [![GitHub license](https://img.shields.io/github/license/hijkzzz/Awesome-LLM-Strawberry)](https://github.com/hijkzzz/Awesome-LLM-Strawberry/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/hijkzzz/Awesome-LLM-Strawberry?color=9cf) [![GitHub license](https://img.shields.io/github/license/hijkzzz/Awesome-LLM-Strawberry)](https://github.com/hijkzzz/Awesome-LLM-Strawberry/blob/main/LICENSE)
 
 This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**.
 
@@ -8,6 +8,31 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ## OpenAI Docs
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
+
+## News
+- [OpenAI] [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
+- [Google DeepMind] [Gemini 2.0 Flash Thinking](https://x.com/JeffDean/status/1869789813232341267)
+- [DeepSeek] [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://api-docs.deepseek.com/news/news1120)
+- [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
+- [Moonshoot] [Kimi 发布视觉思考模型 k1，多项理科测试行业领先](https://mp.weixin.qq.com/s/8cip3dehL8OIfZSnbZ1ftQ)
+- [InternLM] [强推理模型书生InternThinker开放体验：自主生成高智力密度数据、具备元动作思考能力](https://mp.weixin.qq.com/s/l7fdHlETvhKgZmUl23EiRA)
+- [新智元] [万字独家爆光，首揭o1 pro架构！惊人反转，Claude 3.5 Opus没失败？](https://mp.weixin.qq.com/s/LozJEE1sAAYAOrEFDVb6mg)
+
+## Open-source
+### Models
+- [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
+- [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
+- [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
+- [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
+- [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
+- [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
+
+### Codebase and Others
+- [openreasoner] [OpenR](https://github.com/openreasoner/openr)
+- [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
+- [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
+- [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
 
 ## Blogs
 - [OpenAI] [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
@@ -68,31 +93,6 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/cb1cc1e6-35d4-4567-891a-4e5aca8fa175" width="300px">
 
 </details>
-
-## News
-- [OpenAI] [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
-- [Google DeepMind] [Gemini 2.0 Flash Thinking](https://x.com/JeffDean/status/1869789813232341267)
-- [DeepSeek] [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://api-docs.deepseek.com/news/news1120)
-- [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
-- [Moonshoot] [Kimi 发布视觉思考模型 k1，多项理科测试行业领先](https://mp.weixin.qq.com/s/8cip3dehL8OIfZSnbZ1ftQ)
-- [InternLM] [强推理模型书生InternThinker开放体验：自主生成高智力密度数据、具备元动作思考能力](https://mp.weixin.qq.com/s/l7fdHlETvhKgZmUl23EiRA)
-- [新智元] [万字独家爆光，首揭o1 pro架构！惊人反转，Claude 3.5 Opus没失败？](https://mp.weixin.qq.com/s/LozJEE1sAAYAOrEFDVb6mg)
-
-## Open-source
-### Models
-- [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
-- [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
-- [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
-- [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
-- [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
-- [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
-
-### Codebase and Others
-- [openreasoner] [OpenR](https://github.com/openreasoner/openr)
-- [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-- [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
-- [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
-- [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
 
 
 ## Papers
