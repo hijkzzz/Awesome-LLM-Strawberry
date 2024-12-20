@@ -12,6 +12,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ## News
 - [OpenAI] [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 - [Google DeepMind] [Gemini 2.0 Flash Thinking](https://x.com/JeffDean/status/1869789813232341267)
+- [Ilya Sutskever] [AI with reasoning power will be less predictable](https://www.reuters.com/technology/artificial-intelligence/ai-with-reasoning-power-will-be-less-predictable-ilya-sutskever-says-2024-12-14/)
 - [DeepSeek] [DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!](https://api-docs.deepseek.com/news/news1120)
 - [Moonshoot] [数学对标o1系列，搜索再次进化，Kimi 新推理模型与你一起拓展智能边界](https://mp.weixin.qq.com/s/g4DltigncX-4sfaQ6Qn1zA)
 - [Moonshoot] [Kimi 发布视觉思考模型 k1，多项理科测试行业领先](https://mp.weixin.qq.com/s/8cip3dehL8OIfZSnbZ1ftQ)
