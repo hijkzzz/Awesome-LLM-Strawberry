@@ -74,10 +74,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 <details>
 <summary>Others</summary>
 
-- <img src="https://github.com/user-attachments/assets/939e71e7-f742-4485-933b-5132ac34479b" width="300px">
+- <img src="https://github.com/user-attachments/assets/a2b72557-d56b-4507-954a-86c61dedbfba" width="300px">
 - <img src="https://github.com/user-attachments/assets/d3fd109b-0c97-4a94-931e-919b3b2f75f4" width="300px">
 - <img src="https://github.com/user-attachments/assets/88896f70-017d-4520-ac56-370a023cfe45" width="300px">
-- <img src="https://github.com/user-attachments/assets/cb1cc1e6-35d4-4567-891a-4e5aca8fa175" width="300px">
 
 </details>
 
