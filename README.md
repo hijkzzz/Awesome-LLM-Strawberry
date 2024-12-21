@@ -3,7 +3,7 @@
 
 This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**.
 
-And the repository will be continuously updated to track the frontier of LLM Reasoning.
+And the repository will be continuously updated to track the frontier of LLM Reasoning. 
 
 ## OpenAI Docs
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
