@@ -48,7 +48,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [All the questions addressed by the API team during the December 17, 2024 AMA](https://community.openai.com/t/all-the-questions-addressed-by-the-api-team-during-the-december-17-2024-ama/1059780)
 - [We’re hosting an AMA for developers from 10–11 AM PT today.](https://x.com/OpenAIDevs/status/1834608585151594537)
 - [Today we previewed Reinforcement Fine-Tuning](https://x.com/OpenAI/status/1865136373491208674)
-- <img src="https://github.com/user-attachments/assets/8d33afdb-39ec-4c76-ab27-d132ea913c3e" width="300px">
+- <img src="https://github.com/user-attachments/assets/8d33afdb-39ec-4c76-ab27-d132ea913c3e" width="360px">
 
 
 </details>
@@ -56,27 +56,28 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 <details>
 <summary>Noam Brown</summary>
 
-- <img src="https://github.com/user-attachments/assets/4670514c-e6fa-474f-abea-c3f6ad01e41a" width="300px">
-- <img src="https://github.com/user-attachments/assets/b390ccea-9773-4a96-ba02-40d917473402" width="300px">
-- <img src="https://github.com/user-attachments/assets/aa0678fa-28eb-4b2a-a6ff-c0d123568f22" width="300px">
+- <img src="https://github.com/user-attachments/assets/4670514c-e6fa-474f-abea-c3f6ad01e41a" width="360px">
+- <img src="https://github.com/user-attachments/assets/b390ccea-9773-4a96-ba02-40d917473402" width="360px">
+- <img src="https://github.com/user-attachments/assets/aa0678fa-28eb-4b2a-a6ff-c0d123568f22" width="360px">
 
 </details>
 
 <details>
 <summary>Jason Wei</summary>
 
-- <img src="https://github.com/user-attachments/assets/fcf1ffa7-9e92-4cb6-afd4-ba6c14f3ae32" width="300px">
-- <img src="https://github.com/user-attachments/assets/0f84796d-ae11-4c50-a681-e1b33aa152d9" width="300px">
-- <img src="https://github.com/user-attachments/assets/fbbf78e4-d34c-4b7b-8163-f8c7288f56a6" width="300px">
+- <img src="https://github.com/user-attachments/assets/fcf1ffa7-9e92-4cb6-afd4-ba6c14f3ae32" width="360px">
+- <img src="https://github.com/user-attachments/assets/0f84796d-ae11-4c50-a681-e1b33aa152d9" width="360px">
+- <img src="https://github.com/user-attachments/assets/fbbf78e4-d34c-4b7b-8163-f8c7288f56a6" width="360px">
 
 </details>
 
 <details>
 <summary>Others</summary>
 
-- <img src="https://github.com/user-attachments/assets/a2b72557-d56b-4507-954a-86c61dedbfba" width="300px">
-- <img src="https://github.com/user-attachments/assets/d3fd109b-0c97-4a94-931e-919b3b2f75f4" width="300px">
-- <img src="https://github.com/user-attachments/assets/88896f70-017d-4520-ac56-370a023cfe45" width="300px">
+- <img src="https://github.com/user-attachments/assets/9c577f52-1976-4687-a67b-fd52a104a8cc" width="360px">
+
+- <img src="https://github.com/user-attachments/assets/d3fd109b-0c97-4a94-931e-919b3b2f75f4" width="360px">
+- <img src="https://github.com/user-attachments/assets/88896f70-017d-4520-ac56-370a023cfe45" width="360px">
 
 </details>
 
