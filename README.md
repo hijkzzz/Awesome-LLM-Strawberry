@@ -3,7 +3,7 @@
 
 This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**.
 
-And the repository will be continuously updated to track the frontier of LLM Reasoning. 
+And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## OpenAI Docs
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
@@ -111,7 +111,7 @@ format:
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
-  - OpenAI 
+  - OpenAI
 - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
   - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
