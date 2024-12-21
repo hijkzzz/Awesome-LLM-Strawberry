@@ -10,6 +10,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
 ## News
+- [OpenAI] [o3 preview & o3 mini](https://openai.com/12-days/)
 - [OpenAI] [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 - [Google DeepMind] [Gemini 2.0 Flash Thinking](https://x.com/JeffDean/status/1869789813232341267)
 - [Ilya Sutskever] [AI with reasoning power will be less predictable](https://www.reuters.com/technology/artificial-intelligence/ai-with-reasoning-power-will-be-less-predictable-ilya-sutskever-says-2024-12-14/)
@@ -110,6 +111,8 @@ format:
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
   - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry
+- [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
+  - OpenAI 
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
