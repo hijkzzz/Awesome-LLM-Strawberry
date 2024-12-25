@@ -36,6 +36,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Rishabh Agarwal] [Improving LLM Reasoning using Self-generated data: RL and Verifiers](https://rosanneliu.com/dlctfs/dlct_240531.pdf)
 - [Wei Shen] [Generalization Progress in RLHF: Insights into the Impact of Reward Models and PPO](https://swtheking.notion.site/4e0cbb325aaf458da710f0b36dbb239c?v=c9231e8c988b4d66a1d2dc34df4cf7b5)
 - [Dominater069] [Codeforces - Analyzing how good O1-Mini actually is](https://codeforces.com/blog/entry/133887)
+- [hijkzzz] [o1 复现以及关于 REINFORCE & GRPO 的碎碎念](https://zhuanlan.zhihu.com/p/14520940716)
 
 ## Talks
 - [Noam Brown] [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?app=desktop&v=eaAonE58sLU)
