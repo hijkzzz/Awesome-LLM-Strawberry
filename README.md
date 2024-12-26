@@ -94,8 +94,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
 
 ### Codebase and Others
-- [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- [OpenRLHF Team] [REINFORCE++](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh) | [Technical Report](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS)
+- [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
@@ -155,8 +156,6 @@ format:
   - An Yang, Beichen Zhang, Binyuan Hui, Bofei Gao, Bowen Yu, Chengpeng Li, Dayiheng Liu, Jianhong Tu, Jingren Zhou, Junyang Lin, Keming Lu, Mingfeng Xue, Runji Lin, Tianyu Liu, Xingzhang Ren, Zhenru Zhang
 - [Does RLHF Scale? Exploring the Impacts From Data, Model, and Method](https://arxiv.org/abs/2412.06000)
   - Zhenyu Hou, Pengfan Du, Yilin Niu, Zhengxiao Du, Aohan Zeng, Xiao Liu, Minlie Huang, Hongning Wang, Jie Tang, Yuxiao Dong
-- [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://hijkzzz.notion.site/reinforce-plus-plus)
-  - Jian Hu
 - [Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering](https://arxiv.org/abs/2411.11504)
   - Xinyan Guan, Yanjiang Liu, Xinyu Lu, Boxi Cao, Ben He, Xianpei Han, Le Sun, Jie Lou, Bowen Yu, Yaojie Lu, Hongyu Lin
 - [Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective](https://arxiv.org/abs/2412.14135)
@@ -219,9 +218,6 @@ format:
   - Kanishk Gandhi, Denise Lee, Gabriel Grand, Muxin Liu, Winson Cheng, Archit Sharma, Noah D. Goodman
 - [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
   - Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar
-- [Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning Through Trap Problems](https://arxiv.org/pdf/2405.06680)
-  - Jun Zhao, Jingqi Tong, Yurong Mou, Ming Zhang, Qi Zhang, Xuanjing Huang
-  - [https://github.com/tongjingqi/MathTrap](https://github.com/tongjingqi/MathTrap)
 - [Evaluation of OpenAI o1: Opportunities and Challenges of AGI](https://arxiv.org/abs/2409.18486)
   - Tianyang Zhong, Zhengliang Liu, Yi Pan, Yutong Zhang, Yifan Zhou, Shizhe Liang, Zihao Wu, Yanjun Lyu, Peng Shu, Xiaowei Yu, Chao Cao, Hanqi Jiang, Hanxu Chen, Yiwei Li, Junhao Chen, etc.
 - [Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602)
@@ -236,6 +232,8 @@ format:
   - Siwei Wu, Zhongyuan Peng, Xinrun Du, Tuney Zheng, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang, Chenghua Lin, J.H. Liu
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
   - Tianhao Wu, Janice Lan, Weizhe Yuan, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar
+- [Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning Through Trap Problems](https://arxiv.org/pdf/2405.06680)
+  - Jun Zhao, Jingqi Tong, Yurong Mou, Ming Zhang, Qi Zhang, Xuanjing Huang
 - [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/abs/2402.06457)
   - Arian Hosseini, Xingdi Yuan, Nikolay Malkin, Aaron Courville, Alessandro Sordoni, Rishabh Agarwal
 - [CPL: Critical Plan Step Learning Boosts LLM Generalization in Reasoning Tasks](https://arxiv.org/abs/2409.08642)
