@@ -91,7 +91,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
 - [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
 - [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
-- [CUHK-SZ] [HuatuoGPT-o1][https://github.com/FreedomIntelligence/HuatuoGPT-o1)
+- [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 - [Steiner] [A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
 
 ### Codebase and Others
