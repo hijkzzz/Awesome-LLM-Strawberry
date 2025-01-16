@@ -104,6 +104,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [bklieger-groq] [g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
 
+### Dataset
+- [PRM800K](https://github.com/openai/prm800k) | [huggingface](https://huggingface.co/datasets/trl-lib/prm800k)
+- [MATH-SHEPHERD](https://arxiv.org/pdf/2312.08935) | [huggingface](https://huggingface.co/datasets/trl-lib/math_shepherd)
 
 ## Papers
 
@@ -143,6 +146,7 @@ format:
   - Scott McKinney
 
 ### 2025
+- [PRMBENCH: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/pdf/2501.03124)
 - [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/pdf/2501.04519)
   - Xinyu Guan, Li Lyna Zhang, Yifei Liu, Ning Shang, Youran Sun, Yi Zhu, Fan Yang, Mao Yang
 - [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301)
@@ -154,6 +158,7 @@ format:
 
 
 ### 2024
+- [PROCESSBENCH: Identifying Process Errors in Mathematical Reasoning](https://arxiv.org/pdf/2412.06559)
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
   - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
