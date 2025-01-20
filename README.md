@@ -1,7 +1,7 @@
   # Awesome LLM Strawberry (OpenAI o1)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/hijkzzz/Awesome-LLM-Strawberry?color=9cf) [![GitHub license](https://img.shields.io/github/license/hijkzzz/Awesome-LLM-Strawberry)](https://github.com/hijkzzz/Awesome-LLM-Strawberry/blob/main/LICENSE)
 
-This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**.
+This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**. 
 
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
