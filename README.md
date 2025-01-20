@@ -91,6 +91,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ### Models
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [Alibaba Qwen Team] [QvQ](https://huggingface.co/Qwen/QVQ-72B-Preview)
+- [DeepSeek] [DeepSeek R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
