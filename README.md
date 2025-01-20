@@ -89,9 +89,10 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ## Open-source
 ### Models
-- [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [Alibaba Qwen Team] [QvQ](https://huggingface.co/Qwen/QVQ-72B-Preview)
+- [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
+- [NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
 - [Tencent] [DRT-o1](https://github.com/krystalan/DRT-o1)
 - [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
