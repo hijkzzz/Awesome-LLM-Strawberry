@@ -9,6 +9,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
+## Courses
+- [DeepLearning.AI] [Reasoning with o1](https://learn.deeplearning.ai/courses/reasoning-with-o1)
+
 ## News
 - [OpenAI] [o3 preview & o3 mini](https://openai.com/12-days/)
 - [OpenAI] [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
