@@ -147,6 +147,13 @@ format:
 - [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
   - Scott McKinney
 
+ ### Open-Source Model Technical Report
+- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
+  - MoonShot 
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
+Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
+  - DeepSeek AI
+
 ### 2025
 - [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/pdf/2501.04519)
   - Xinyu Guan, Li Lyna Zhang, Yifei Liu, Ning Shang, Youran Sun, Yi Zhu, Fan Yang, Mao Yang
