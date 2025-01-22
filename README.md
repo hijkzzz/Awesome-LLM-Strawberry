@@ -147,7 +147,7 @@ format:
 - [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
   - Scott McKinney
 
- ### Open-Source Model Technical Report
+ ### o1 Models Technical Report
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
   - MoonShot 
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
