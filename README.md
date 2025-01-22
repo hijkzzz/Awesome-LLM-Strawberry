@@ -149,7 +149,7 @@ format:
 
  ### o1 Models Technical Report
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
-  - MoonShot 
+  - MoonShot
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
 Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
   - DeepSeek AI
