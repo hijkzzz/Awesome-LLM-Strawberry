@@ -155,6 +155,8 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - DeepSeek AI
 
 ### 2025
+- [Distillation Quantification for Large Language Models](https://github.com/Aegis1863/LLMs-Distillation-Quantification/blob/main/paper.pdf)
+  - Sunbowen Lee, Junting Zhou, Chao Ao, etc.
 - [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/pdf/2501.04519)
   - Xinyu Guan, Li Lyna Zhang, Yifei Liu, Ning Shang, Youran Sun, Yi Zhu, Fan Yang, Mao Yang
 - [Evolving Deeper LLM Thinking](https://arxiv.org/pdf/2501.09891)
