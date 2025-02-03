@@ -10,6 +10,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
 ## News
+- [OpenAI] [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 - [OpenAI] [o3 preview & o3 mini](https://openai.com/12-days/)
 - [OpenAI] [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 - [Google DeepMind] [Gemini 2.0 Flash Thinking](https://x.com/JeffDean/status/1869789813232341267)
