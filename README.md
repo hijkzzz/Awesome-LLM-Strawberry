@@ -159,6 +159,8 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - DeepSeek AI
 
 ### 2025
+- [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+  - Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto
 - [Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/pdf/2501.11651)
   - Zhenyu Hou, Xin Lv, Rui Lu, Jiajie Zhang, Yujiang Li, Zijun Yao, Juanzi Li, Jie Tang, Yuxiao Dong
 - [Distillation Quantification for Large Language Models](https://github.com/Aegis1863/LLMs-Distillation-Quantification/blob/main/paper.pdf)
