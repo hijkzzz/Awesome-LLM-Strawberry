@@ -154,13 +154,18 @@ format:
  ### Technical Report on o1 Models
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
   - MoonShot
-- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
-Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
   - DeepSeek AI
 
 ### 2025
+- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
+  - Edward Yeo, Yuxuan Tong, Morry Niu, Graham Neubig, Xiang Yue
+- [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
+  - Yixin Ye, Zhen Huang, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu
 - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
   - Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto
+- [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/abs/2501.17161v1)
+  - Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc V. Le, Sergey Levine, Yi Ma
 - [Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/pdf/2501.11651)
   - Zhenyu Hou, Xin Lv, Rui Lu, Jiajie Zhang, Yujiang Li, Zijun Yao, Juanzi Li, Jie Tang, Yuxiao Dong
 - [Distillation Quantification for Large Language Models](https://github.com/Aegis1863/LLMs-Distillation-Quantification/blob/main/paper.pdf)
