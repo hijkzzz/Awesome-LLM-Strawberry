@@ -158,6 +158,8 @@ format:
   - DeepSeek AI
 
 ### 2025
+- [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)
+  - Dacheng Li, Shiyi Cao, Tyler Griggs, Shu Liu, Xiangxi Mo, Shishir G. Patil, Matei Zaharia, Joseph E. Gonzalez, Ion Stoica
 - [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
   - Edward Yeo, Yuxuan Tong, Morry Niu, Graham Neubig, Xiang Yue
 - [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
