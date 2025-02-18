@@ -162,6 +162,8 @@ format:
   - Dacheng Li, Shiyi Cao, Tyler Griggs, Shu Liu, Xiangxi Mo, Shishir G. Patil, Matei Zaharia, Joseph E. Gonzalez, Ion Stoica
 - [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
   - Edward Yeo, Yuxuan Tong, Morry Niu, Graham Neubig, Xiang Yue
+- [LIMR: Less is More for RL Scaling](https://arxiv.org/abs/2502.11886)
+  - Xuefeng Li, Haoyang Zou, Pengfei Liu
 - [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
   - Yixin Ye, Zhen Huang, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu
 - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
