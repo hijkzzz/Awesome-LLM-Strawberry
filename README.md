@@ -159,6 +159,9 @@ format:
   - DeepSeek AI
 
 ### 2025
+- [Learning to Reason from Feedback at Test-Time](https://arxiv.org/abs/2502.15771)
+  - Yanyang Li, Michael Lyu, Liwei Wang
+  - https://github.com/LaVi-Lab/FTTT
 - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://arxiv.org/abs/2502.14768)
   - Tian Xie, Zitian Gao, Qingnan Ren, Haoming Luo, Yuqian Hong, Bryan Dai, Joey Zhou, Kai Qiu, Zhirong Wu, Chong Luo
 - [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/abs/2502.12118)
