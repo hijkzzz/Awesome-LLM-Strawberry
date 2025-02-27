@@ -159,6 +159,9 @@ format:
 
 
 ### 2025
+- [Learning to Reason from Feedback at Test-Time](https://arxiv.org/abs/2502.15771)
+  - Yanyang Li, Michael Lyu, Liwei Wang
+  - https://github.com/LaVi-Lab/FTTT
 - [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/abs/2502.12118)
   - Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar
 - [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)
