@@ -108,12 +108,13 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [StepFun] [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [OpenRLHF Team] [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh )
+- [OpenRLHF Team] [OpenRLHF-M](https://github.com/OpenRLHF/OpenRLHF-M)
+- [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
+- [LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
 - [Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 - [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 - [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
-- [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
-- [LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
 
 ## Papers
 
