@@ -90,7 +90,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ## Open-source
 ### Models
-- [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview)
+- [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B)
 - [Alibaba Qwen Team] [QvQ](https://huggingface.co/Qwen/QVQ-72B-Preview)
 - [DeepSeek] [DeepSeek R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
@@ -108,11 +108,13 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [StepFun] [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [OpenRLHF Team] [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh )
+- [OpenRLHF Team] [OpenRLHF-M](https://github.com/OpenRLHF/OpenRLHF-M)
+- [ModalMinds] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA)
+- [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
+- [LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
 - [Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 - [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
-- [o1-chain-of-thought] [Transcription of o1 Reasoning Traces from OpenAI blog post](https://github.com/bradhilton/o1-chain-of-thought)
-
 
 ## Papers
 
@@ -162,6 +164,14 @@ format:
 - [Learning to Reason from Feedback at Test-Time](https://arxiv.org/abs/2502.15771)
   - Yanyang Li, Michael Lyu, Liwei Wang
   - https://github.com/LaVi-Lab/FTTT
+- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476)
+  - Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, etc.
+- [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)
+  - Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar
+- [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592)
+  - Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen
+- [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785)
+  - Ziyu Liu, Zeyi Sun, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang
 - [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/abs/2502.12118)
   - Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar
 - [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)
