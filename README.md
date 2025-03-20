@@ -161,6 +161,9 @@ format:
 
 
 ### 2025
+- [Learning to Reason from Feedback at Test-Time](https://arxiv.org/abs/2502.15771)
+  - Yanyang Li, Michael Lyu, Liwei Wang
+  - https://github.com/LaVi-Lab/FTTT
 - [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476)
   - Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, etc.
 - [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)
