@@ -102,6 +102,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 ### Codebase
+- [RUCAIBox][STILL: Slow Thinking with LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 - [HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
   - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
 - [Ubiquant] [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://github.com/Unakar/Logic-RL)
