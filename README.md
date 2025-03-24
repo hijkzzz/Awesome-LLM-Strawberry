@@ -113,8 +113,8 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [ModalMinds] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA)
 - [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
 - [LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
+- [Sea AI Lab] [Dr. GRPO](https://github.com/sail-sg/understand-r1-zero)
 - [Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-- [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 
 ## Papers
