@@ -63,6 +63,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 <details>
 <summary>Noam Brown</summary>
 
+- <img src="https://github.com/user-attachments/assets/e33e5dd6-0c03-43b0-98a5-620176c337c2" width="360px">
 - <img src="https://github.com/user-attachments/assets/4670514c-e6fa-474f-abea-c3f6ad01e41a" width="360px">
 - <img src="https://github.com/user-attachments/assets/b390ccea-9773-4a96-ba02-40d917473402" width="360px">
 - <img src="https://github.com/user-attachments/assets/aa0678fa-28eb-4b2a-a6ff-c0d123568f22" width="360px">
