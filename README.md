@@ -63,6 +63,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 <details>
 <summary>Noam Brown</summary>
 
+- <img src="https://github.com/user-attachments/assets/e33e5dd6-0c03-43b0-98a5-620176c337c2" width="360px">
 - <img src="https://github.com/user-attachments/assets/4670514c-e6fa-474f-abea-c3f6ad01e41a" width="360px">
 - <img src="https://github.com/user-attachments/assets/b390ccea-9773-4a96-ba02-40d917473402" width="360px">
 - <img src="https://github.com/user-attachments/assets/aa0678fa-28eb-4b2a-a6ff-c0d123568f22" width="360px">
@@ -102,18 +103,19 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 ### Codebase
+- [RUCAIBox] [STILL: Slow Thinking with LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 - [HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
   - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
 - [Ubiquant] [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://github.com/Unakar/Logic-RL)
 - [StepFun] [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-- [OpenRLHF Team] [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh )
+- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh )
 - [OpenRLHF Team] [OpenRLHF-M](https://github.com/OpenRLHF/OpenRLHF-M)
 - [ModalMinds] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA)
 - [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
 - [LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
+- [Sea AI Lab] [Dr. GRPO](https://github.com/sail-sg/understand-r1-zero)
 - [Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-- [openreasoner] [OpenR](https://github.com/openreasoner/openr)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 
 ## Papers
@@ -128,10 +130,14 @@ format:
 ```
 
  ### Technical Report on o1 Models
-- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
-  - MoonShot
+- [Seed Thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
+  - Bytedance Seed
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
   - DeepSeek AI
+- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
+  - MoonShot
+- [KIMI-VL TECHNICAL REPORT](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf)
+  - MoonShot 
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
@@ -164,8 +170,14 @@ format:
 - [Learning to Reason from Feedback at Test-Time](https://arxiv.org/abs/2502.15771)
   - Yanyang Li, Michael Lyu, Liwei Wang
   - https://github.com/LaVi-Lab/FTTT
+- [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/pdf/2504.05118)
+  - YuYue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, etc.
+- [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
+  - Zijun Liu, Peiyi Wang, Runxin Xu, Shirong Ma, Chong Ruan, Peng Li, Yang Liu, Yu Wu
 - [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476)
   - Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, etc.
+- [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
+  - Jonas Geiping, Sean McLeish, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Tom Goldstein
 - [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)
   - Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar
 - [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592)
