@@ -137,7 +137,7 @@ format:
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
   - MoonShot
 - [KIMI-VL TECHNICAL REPORT](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf)
-  - MoonShot 
+  - MoonShot
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
@@ -167,6 +167,9 @@ format:
 
 
 ### 2025
+- [Learning to Reason from Feedback at Test-Time](https://arxiv.org/abs/2502.15771)
+  - Yanyang Li, Michael Lyu, Liwei Wang
+  - https://github.com/LaVi-Lab/FTTT
 - [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/pdf/2504.05118)
   - YuYue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, etc.
 - [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
