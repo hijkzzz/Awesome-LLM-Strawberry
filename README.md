@@ -137,7 +137,9 @@ format:
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
   - MoonShot
 - [KIMI-VL TECHNICAL REPORT](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf)
-  - MoonShot 
+  - MoonShot
+- [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://github.com/MoonshotAI/Kimina-Prover-Preview)
+  - MoonShot & Numina
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
@@ -167,6 +169,8 @@ format:
 
 
 ### 2025
+- [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/abs/2504.10449)
+  - Junxiong Wang, Wen-Ding Li, Daniele Paliotta, Daniel Ritter, Alexander M. Rush, Tri Dao 
 - [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/abs/2504.07086)
   - Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, Samuel Albanie, Ameya Prabhu, Matthias Bethge
 - [Concise Reasoning via Reinforcement Learning](https://arxiv.org/abs/2504.05185)
