@@ -94,11 +94,11 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B)
 - [Alibaba Qwen Team] [QvQ](https://huggingface.co/Qwen/QVQ-72B-Preview)
 - [DeepSeek] [DeepSeek R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+- [Skywork] [Skywork OR1](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reasoner-Series-1d0bc9ae823a80459b46c149e4f51680)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
 - [Tencent] [DRT-o1](https://github.com/krystalan/DRT-o1)
-- [Skywork] [Skywork o1 Open model series](https://huggingface.co/Skywork/Skywork-o1-Open-Llama-3.1-8B)
 - [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
