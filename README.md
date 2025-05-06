@@ -142,6 +142,8 @@ format:
   - MoonShot
 - [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://github.com/MoonshotAI/Kimina-Prover-Preview)
   - MoonShot & Numina
+- [Llama-Nemotron: Efficient Reasoning Models]
+  - NVIDIA
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
