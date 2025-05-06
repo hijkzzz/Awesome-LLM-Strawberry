@@ -142,7 +142,7 @@ format:
   - MoonShot
 - [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://github.com/MoonshotAI/Kimina-Prover-Preview)
   - MoonShot & Numina
-- [Llama-Nemotron: Efficient Reasoning Models]
+- [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
   - NVIDIA
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
