@@ -131,7 +131,7 @@ format:
 
  ### Technical Report on o1 Models
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
-  - Qwen Team 
+  - Qwen Team
 - [Seed Thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
   - Bytedance Seed
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
@@ -175,6 +175,8 @@ format:
 
 
 ### 2025
+- [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
+  - Fanqi Wan, Weizhou Shen, Shengyi Liao, Yingcheng Shi, Chenliang Li, Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan
 - [Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773)
   - Xinji Mai, Haotian Xu, Xing W, Weinong Wang, Yingying Zhang, Wenqiang Zhang
   - Code: [https://github.com/yyht/openrlhf_async_pipline](https://github.com/yyht/openrlhf_async_pipline)
