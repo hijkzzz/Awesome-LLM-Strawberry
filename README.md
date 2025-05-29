@@ -146,6 +146,8 @@ format:
   - MoonShot & Numina
 - [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
   - NVIDIA
+- [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/pdf/2505.22312)
+  - Skywork 
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
