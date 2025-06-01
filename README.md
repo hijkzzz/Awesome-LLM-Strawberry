@@ -147,7 +147,7 @@ format:
 - [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
   - NVIDIA
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/pdf/2505.22312)
-  - Skywork 
+  - Skywork
 
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
@@ -191,7 +191,7 @@ format:
   - Xinji Mai, Haotian Xu, Xing W, Weinong Wang, Yingying Zhang, Wenqiang Zhang
   - Code: [https://github.com/yyht/openrlhf_async_pipline](https://github.com/yyht/openrlhf_async_pipline)
 - [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/abs/2504.11343)
-  - Wei Xiong, Jiarui Yao, Yuhui Xu, Bo Pang, Lei Wang, Doyen Sahoo, Junnan Li, Nan Jiang, Tong Zhang, Caiming Xiong, Hanze Dong 
+  - Wei Xiong, Jiarui Yao, Yuhui Xu, Bo Pang, Lei Wang, Doyen Sahoo, Junnan Li, Nan Jiang, Tong Zhang, Caiming Xiong, Hanze Dong
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
   - Yiping Wang, Qing Yang, Zhiyuan Zeng, Liliang Ren, Lucas Liu, Baolin Peng, Hao Cheng, Xuehai He, Kuan Wang, Jianfeng Gao, Weizhu Chen, Shuohang Wang, Simon Shaolei Du, Yelong Shen
 - [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
