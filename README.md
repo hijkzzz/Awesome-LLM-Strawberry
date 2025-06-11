@@ -132,6 +132,8 @@ format:
  ### Technical Report on o1 Models
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
   - Qwen Team
+- [Magistral](https://mistral.ai/static/research/magistral.pdf)
+  - Mistral AI
 - [Seed Thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
   - Bytedance Seed
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
