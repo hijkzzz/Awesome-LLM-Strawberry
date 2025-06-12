@@ -158,7 +158,7 @@ format:
   - Jian Hu, Jason Klein Liu, Wei Shen
   - Code: [REINFORCE++-baseline](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
-  - Qwen Team 
+  - Qwen Team
 - [The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning](https://www.alphaxiv.org/overview/2506.01347)
   - Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525)
