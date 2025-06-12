@@ -152,15 +152,13 @@ format:
   - Skywork
 
 ### 2025
-- [Unsupervised Elicitation of Language Models](https://alignment.anthropic.com/2025/unsupervised-elicitation/paper.pdf)
-  - Anthropic
-- [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
-  - Qwen Team 
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
   - Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong
 - [REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models](https://arxiv.org/abs/2501.03262)
   - Jian Hu, Jason Klein Liu, Wei Shen
   - Code: [REINFORCE++-baseline](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
+- [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
+  - Qwen Team
 - [The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning](https://www.alphaxiv.org/overview/2506.01347)
   - Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525)
