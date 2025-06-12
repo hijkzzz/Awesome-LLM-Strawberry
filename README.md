@@ -244,6 +244,8 @@ format:
   - Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei
 - [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186)
   - Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan
+- [PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters](https://arxiv.org/pdf/2504.08791)
+  - Zonghang Li, Tao Li, Wenjiao Feng, Mohsen Guizani, Hongfang Yu
 
 ### 2024
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
