@@ -91,13 +91,16 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ## Open-source
 ### Models
+- [Alibaba Qwen Team] [Qwen3](https://github.com/QwenLM/Qwen3)
 - [Alibaba Qwen Team] [QwQ](https://huggingface.co/Qwen/QwQ-32B)
 - [Alibaba Qwen Team] [QvQ](https://huggingface.co/Qwen/QVQ-72B-Preview)
 - [DeepSeek] [DeepSeek R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
-- [Skywork] [Skywork OR1](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reasoner-Series-1d0bc9ae823a80459b46c149e4f51680)
-- [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
+- [NVIDIA] [Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)
+- [Skywork] [Skywork R1V2](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)
+- [rLLM ] [DeepScaler](https://github.com/agentica-project/rllm)
 - [NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
+- [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
 - [Tencent] [DRT-o1](https://github.com/krystalan/DRT-o1)
 - [Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1)
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
