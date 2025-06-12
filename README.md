@@ -49,7 +49,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [DeepLearning.AI] [Reasoning with o1](https://learn.deeplearning.ai/courses/reasoning-with-o1)
 
 ## Twitter
-<details open>
+<details>
 <summary>OpenAI Developers</summary>
 
 - [All the questions addressed by the API team during the December 17, 2024 AMA](https://community.openai.com/t/all-the-questions-addressed-by-the-api-team-during-the-december-17-2024-ama/1059780)
@@ -97,7 +97,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [DeepSeek] [DeepSeek R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 - [NVIDIA] [Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)
 - [Skywork] [Skywork R1V2](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)
-- [rLLM ] [DeepScaler](https://github.com/agentica-project/rllm)
+- [rLLM] [DeepScaler](https://github.com/agentica-project/rllm)
 - [NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
