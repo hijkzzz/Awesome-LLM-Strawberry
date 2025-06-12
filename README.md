@@ -106,6 +106,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 ### Codebase
+- [Alibaba] [ROLL](https://github.com/alibaba/ROLL) | [Paper](https://arxiv.org/abs/2506.06122)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://arxiv.org/abs/2501.03262) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL)
@@ -244,6 +245,8 @@ format:
   - Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei
 - [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186)
   - Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan
+- [From chaos to order: The atomic reasoner framework for fine-grained reasoning in large language models](https://arxiv.org/abs/2503.15944)
+  - Jinyi Liu, Yan Zheng, Rong Cheng, Qiyu Wu, Wei Guo, Fei Ni, Hebin Liang, Yifu Yuan, Hangyu Mao, Fuzheng Zhang, Jianye Hao
 
 ### 2024
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
