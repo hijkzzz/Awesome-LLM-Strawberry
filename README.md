@@ -108,6 +108,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ### Codebase
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://arxiv.org/abs/2501.03262) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
+- [NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL)
 - [RUCAIBox] [STILL: Slow Thinking with LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 - [HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
   - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
