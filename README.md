@@ -103,13 +103,13 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 ### Codebase
+- [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://arxiv.org/abs/2501.03262) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [RUCAIBox] [STILL: Slow Thinking with LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 - [HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
   - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
 - [Ubiquant] [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://github.com/Unakar/Logic-RL)
 - [StepFun] [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
-- [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://www.researchgate.net/publication/387487679_REINFORCE_A_SIMPLE_AND_EFFICIENT_APPROACH_FOR_ALIGNING_LARGE_LANGUAGE_MODELS) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh )
 - [TideDra] [LMM-R1](https://github.com/TideDra/lmm-r1)
 - [ModalMinds] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA)
 - [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
@@ -160,6 +160,9 @@ format:
   - Alex Su, Haozhe Wang, Weiming Ren, Fangzhen Lin, Wenhu Chen
 - [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362)
   - Ziwei Zheng, Michael Yang, Jack Hong, Chenxiao Zhao, Guohai Xu, Le Yang, Chao Shen, Xing Yu
+- [REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models](https://arxiv.org/abs/2501.03262)
+  - Jian Hu, Jason Klein Liu, Wei Shen
+  - Code: https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh
 - [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464)
   - Shiqi Chen, Jinghan Zhang, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, Junxian He
 - [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
