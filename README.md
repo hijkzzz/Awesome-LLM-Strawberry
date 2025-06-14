@@ -106,7 +106,6 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 ### Codebase
-- [Alibaba] [ROLL](https://github.com/alibaba/ROLL) | [Paper](https://arxiv.org/abs/2506.06122)
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://arxiv.org/abs/2501.03262) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL)
@@ -119,6 +118,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [ModalMinds] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA)
 - [R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V)
 - [LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
+- [Alibaba] [ROLL](https://github.com/alibaba/ROLL) | [Paper](https://arxiv.org/abs/2506.06122)
 - [Sea AI Lab] [Dr. GRPO](https://github.com/sail-sg/understand-r1-zero)
 - [Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
