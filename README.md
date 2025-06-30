@@ -139,6 +139,8 @@ format:
   - Qwen Team
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
   - Mistral AI
+- [ERINE-4.5](https://ernie.baidu.com/blog/posts/ernie4.5/)
+  - Baidu
 - [Seed Thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
   - Bytedance Seed
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
