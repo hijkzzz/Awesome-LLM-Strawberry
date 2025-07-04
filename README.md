@@ -161,6 +161,8 @@ format:
   - Skywork
 
 ### 2025
+- [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe)
+  - together.ai
 - [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
   - Zengzhi Wang, Fan Zhou, Xuefeng Li, Pengfei Liu 
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
