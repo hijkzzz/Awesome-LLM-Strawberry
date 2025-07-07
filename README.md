@@ -107,7 +107,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ### Codebase
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://arxiv.org/abs/2501.03262) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
+- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline]([https://arxiv.org/abs/2501.03262](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models)) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL)
 - [RUCAIBox] [STILL: Slow Thinking with LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 - [HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
