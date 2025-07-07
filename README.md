@@ -164,7 +164,7 @@ format:
 - [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe)
   - together.ai
 - [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
-  - Zengzhi Wang, Fan Zhou, Xuefeng Li, Pengfei Liu 
+  - Zengzhi Wang, Fan Zhou, Xuefeng Li, Pengfei Liu
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
   - Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong
 - [REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models)
