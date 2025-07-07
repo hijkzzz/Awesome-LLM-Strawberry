@@ -107,7 +107,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ### Codebase
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline]([https://arxiv.org/abs/2501.03262](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models)) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
+- [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL)
 - [RUCAIBox] [STILL: Slow Thinking with LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 - [HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
@@ -164,10 +164,10 @@ format:
 - [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe)
   - together.ai
 - [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
-  - Zengzhi Wang, Fan Zhou, Xuefeng Li, Pengfei Liu 
+  - Zengzhi Wang, Fan Zhou, Xuefeng Li, Pengfei Liu
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
   - Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong
-- [REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models](https://arxiv.org/abs/2501.03262)
+- [REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models)
   - Jian Hu, Jason Klein Liu, Wei Shen
   - Code: [REINFORCE++-baseline](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
