@@ -149,7 +149,7 @@ format:
   - DeepSeek AI
 - [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
   - MiniMax
-- [Kimi k2](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
+- [Kimi k2: Open agentic intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
   - MoonShot
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
   - MoonShot
