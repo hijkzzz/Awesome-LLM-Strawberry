@@ -163,6 +163,8 @@ format:
   - Skywork
 
 ### 2025
+- [Gemini 2.5 Pro Capable of Winning Gold at IMO 2025](https://arxiv.org/abs/2507.15855)
+  - Yichen Huang, Lin F. Yang 
 - [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe)
   - together.ai
 - [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
