@@ -28,7 +28,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [OpenAI] [Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
 - [ARC-AGI] [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 - [Anthropic] [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
-- [hijkzzz] [REINFORCE++-baseline is all you need in RLVR]([https://zhuanlan.zhihu.com/p/14520940716](https://medium.com/@janhu9527/reinforce-baseline-is-all-you-need-in-rlvr-f5406930aa85))
+- [hijkzzz] [REINFORCE++-baseline is all you need in RLVR](https://medium.com/@janhu9527/reinforce-baseline-is-all-you-need-in-rlvr-f5406930aa85)
 - [hijkzzz] [Best Practices in RL for Reasoning-Capable LLMs: Insights from Mistral’s Magistral Report](https://hijkzzz.notion.site/Best-Practices-in-RL-for-Reasoning-Capable-LLMs-Insights-from-Mistral-s-Magistral-Report-210d9a33ecc980a187d5c4cf09807271)
 - [hijkzzz] [Exploring OpenAI O1 Model Replication](https://hijkzzz.notion.site/exploring-openai-o1-model-replication?pvs=74)
 - [Nathan Lambert] [OpenAI’s Strawberry, LM self-talk, inference scaling laws, and spending more on inference](https://www.interconnects.ai/p/openai-strawberry-and-inference-scaling-laws)
