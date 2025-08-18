@@ -163,6 +163,8 @@ format:
   - Skywork
 
 ### 2025
+- [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/pdf/2508.09726)
+  - Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos 
 - [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://research.nvidia.com/labs/lpr/prorlv2/)
   - Jian Hu, Mingjie Liu, Shizhe Diao, Ximing Lu, Xin Dong, Pavlo Molchanov, Yejin Choi, Jan Kautz, Yi Dong
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
