@@ -163,14 +163,16 @@ format:
   - Skywork
 
 ### 2025
+- [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization](https://arxiv.org/pdf/2508.14460)
+  - Shuaijie She, Yu Bao, Yu Lu, Lu Xu, Tao Li, Wenhao Zhu, Shujian Huang, Shanbo Cheng, Lu Lu, Yuxuan Wang
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/pdf/2508.09726)
-  - Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos 
+  - Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos
 - [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://research.nvidia.com/labs/lpr/prorlv2/)
   - Jian Hu, Mingjie Liu, Shizhe Diao, Ximing Lu, Xin Dong, Pavlo Molchanov, Yejin Choi, Jan Kautz, Yi Dong
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
   - Zihe Liu, Jiashun Liu, Yancheng He, Weixun Wang, Jiaheng Liu, Ling Pan, Xinyu Hu, Shaopan Xiong, Ju Huang, Jian Hu, Shengyi Huang, Siran Yang, Jiamang Wang, Wenbo Su, Bo Zheng
 - [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl)
-  - Feng Yao, Liyuan Liu, Dinghuai Zhang, Chengyu Dong, Jingbo Shang, Jianfeng Gao 
+  - Feng Yao, Liyuan Liu, Dinghuai Zhang, Chengyu Dong, Jingbo Shang, Jianfeng Gao
 - [Gemini 2.5 Pro Capable of Winning Gold at IMO 2025](https://arxiv.org/abs/2507.15855)
   - Yichen Huang, Lin F. Yang
 - [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe)
