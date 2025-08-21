@@ -163,6 +163,8 @@ format:
   - Skywork
 
 ### 2025
+- [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization](https://arxiv.org/pdf/2508.14460)
+  - Shuaijie She, Yu Bao, Yu Lu, Lu Xu, Tao Li, Wenhao Zhu, Shujian Huang, Shanbo Cheng, Lu Lu, Yuxuan Wang 
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/pdf/2508.09726)
   - Vaishnavi Shrivastava, Ahmed Awadallah, Vidhisha Balachandran, Shivam Garg, Harkirat Behl, Dimitris Papailiopoulos 
 - [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://research.nvidia.com/labs/lpr/prorlv2/)
