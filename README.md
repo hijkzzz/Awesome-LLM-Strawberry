@@ -163,6 +163,8 @@ format:
   - Skywork
 
 ### 2025
+- [RL Is Neither a Panacea Nor a Mirage: Understanding Supervised vs. Reinforcement Learning Fine-Tuning for LLMs](https://arxiv.org/pdf/2508.16546v1#page=1.33)
+  - Hangzhan Jin, Sicheng, Sifan Wu, Mohammad Hamdaqa
 - [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization](https://arxiv.org/pdf/2508.14460)
   - Shuaijie She, Yu Bao, Yu Lu, Lu Xu, Tao Li, Wenhao Zhu, Shujian Huang, Shanbo Cheng, Lu Lu, Yuxuan Wang
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://www.arxiv.org/pdf/2508.09726)
