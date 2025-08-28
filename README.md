@@ -135,6 +135,8 @@ format:
 ```
 
  ### Technical Report on o1 Models
+- [NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2)
+  - NVIDIA 
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
   - Qwen Team
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
