@@ -136,7 +136,7 @@ format:
 
  ### Technical Report on o1 Models
 - [NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2)
-  - NVIDIA 
+  - NVIDIA
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
   - Qwen Team
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
@@ -166,7 +166,7 @@ format:
 
 ### 2025
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://www.arxiv.org/abs/2508.20722)
-  - Ning Shang, Yifei Liu, Yi Zhu, Li Lyna Zhang, Weijiang Xu, Xinyu Guan, Buze Zhang, Bingcheng Dong, Xudong Zhou, Bowen Zhang, Ying Xin, Ziming Miao, Scarlett Li, Fan Yang, Mao Yang 
+  - Ning Shang, Yifei Liu, Yi Zhu, Li Lyna Zhang, Weijiang Xu, Xinyu Guan, Buze Zhang, Bingcheng Dong, Xudong Zhou, Bowen Zhang, Ying Xin, Ziming Miao, Scarlett Li, Fan Yang, Mao Yang
 - [RL Is Neither a Panacea Nor a Mirage: Understanding Supervised vs. Reinforcement Learning Fine-Tuning for LLMs](https://arxiv.org/pdf/2508.16546v1#page=1.33)
   - Hangzhan Jin, Sicheng, Sifan Wu, Mohammad Hamdaqa
 - [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization](https://arxiv.org/pdf/2508.14460)
