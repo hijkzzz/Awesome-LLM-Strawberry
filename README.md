@@ -167,6 +167,8 @@ format:
   - Skywork
 
 ### 2025
+- [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
+  - OpenAI
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://www.arxiv.org/abs/2508.20722)
   - Ning Shang, Yifei Liu, Yi Zhu, Li Lyna Zhang, Weijiang Xu, Xinyu Guan, Buze Zhang, Bingcheng Dong, Xudong Zhou, Bowen Zhang, Ying Xin, Ziming Miao, Scarlett Li, Fan Yang, Mao Yang
 - [RL Is Neither a Panacea Nor a Mirage: Understanding Supervised vs. Reinforcement Learning Fine-Tuning for LLMs](https://arxiv.org/pdf/2508.16546v1#page=1.33)
@@ -180,7 +182,7 @@ format:
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
   - Zihe Liu, Jiashun Liu, Yancheng He, Weixun Wang, Jiaheng Liu, Ling Pan, Xinyu Hu, Shaopan Xiong, Ju Huang, Jian Hu, Shengyi Huang, Siran Yang, Jiamang Wang, Wenbo Su, Bo Zheng
 - [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
-  - Chujie Zheng, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin 
+  - Chujie Zheng, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin
 - [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl)
   - Feng Yao, Liyuan Liu, Dinghuai Zhang, Chengyu Dong, Jingbo Shang, Jianfeng Gao
 - [Gemini 2.5 Pro Capable of Winning Gold at IMO 2025](https://arxiv.org/abs/2507.15855)
