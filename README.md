@@ -167,6 +167,8 @@ format:
   - Skywork
 
 ### 2025
+- [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
+  - Jian Hu, Mingjie Liu, Ximing Lu, Fang Wu, Zaid Harchaoui, Shizhe Diao, Yejin Choi, Pavlo Molchanov, Jun Yang, Jan Kautz, Yi Dong
 - [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
   - OpenAI
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://www.arxiv.org/abs/2508.20722)
