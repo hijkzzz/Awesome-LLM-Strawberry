@@ -143,6 +143,8 @@ format:
   - Qwen Team
 - [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/pdf/2509.13309)
   - Qwen Team
+- [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/pdf/2509.13311)
+  - Qwen Team
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
   - Mistral AI
 - [ERINE-4.5](https://ernie.baidu.com/blog/posts/ernie4.5/)
