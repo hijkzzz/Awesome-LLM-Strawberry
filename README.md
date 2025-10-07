@@ -139,6 +139,10 @@ format:
   - NVIDIA
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
   - Qwen Team
+- [Scaling Agents via Continual Pre-training](https://arxiv.org/abs/2509.13310)
+  - Qwen Team
+- [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/pdf/2509.13309)
+  - Qwen Team
 - [Magistral](https://mistral.ai/static/research/magistral.pdf)
   - Mistral AI
 - [ERINE-4.5](https://ernie.baidu.com/blog/posts/ernie4.5/)
@@ -165,6 +169,7 @@ format:
   - NVIDIA
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/pdf/2505.22312)
   - Skywork
+
 
 ### 2025
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
