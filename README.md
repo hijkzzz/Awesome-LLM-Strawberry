@@ -151,6 +151,8 @@ format:
   - Baidu
 - [LongCat Flash](https://github.com/meituan-longcat/LongCat-Flash-Chat/blob/main/tech_report.pdf)
   - Meituan
+- [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/pdf/2508.06471)
+  - Zhipu
 - [Seed Thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
   - Bytedance Seed
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
