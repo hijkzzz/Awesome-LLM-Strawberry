@@ -134,7 +134,11 @@ format:
   - experimental environments and datasets
 ```
 
- ### Technical Report on o1 Models
+### Technical Report on o1 Models
+- [INTELLECT-3: Technical Report](https://storage.googleapis.com/intellect-3-paper/INTELLECT_3_Technical_Report.pdf)
+  - Prime Intellect Team
+- [DeepSeek V3.2](https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.2/resolve/master/assets/paper.pdf)
+  - DeepSeek AI
 - [NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2)
   - NVIDIA
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
@@ -178,6 +182,8 @@ format:
 
 
 ### 2025
+- [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/pdf/2512.01374)
+  - Qwen Team
 - [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/abs/2510.13786)
   - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal 
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
