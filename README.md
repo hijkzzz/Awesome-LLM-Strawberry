@@ -139,6 +139,8 @@ format:
   - Prime Intellect Team
 - [DeepSeek V3.2](https://modelscope.cn/models/deepseek-ai/DeepSeek-V3.2/resolve/master/assets/paper.pdf)
   - DeepSeek AI
+- [MiMo-V2 Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf)
+  - Xiao Mi
 - [NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2)
   - NVIDIA
 - [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
@@ -182,6 +184,8 @@ format:
 
 
 ### 2025
+- [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory](https://www.arxiv.org/abs/2512.12967)
+  - Qwen Team 
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/pdf/2511.22570v1)
   - DeepSeek-AI 
 - [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/pdf/2512.01374)
