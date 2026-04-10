@@ -9,6 +9,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=hijkzzz_Awesome-LLM-Strawberry) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## News
 - [OpenAI] [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 - [OpenAI] [o3 preview & o3 mini](https://openai.com/12-days/)
