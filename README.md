@@ -6,6 +6,7 @@ This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and 
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## OpenAI Docs
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
@@ -185,15 +186,15 @@ format:
 
 ### 2025
 - [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf)
-  - NVIDIA 
+  - NVIDIA
 - [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory](https://www.arxiv.org/abs/2512.12967)
-  - Qwen Team 
+  - Qwen Team
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/pdf/2511.22570v1)
-  - DeepSeek-AI 
+  - DeepSeek-AI
 - [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/pdf/2512.01374)
   - Qwen Team
 - [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/abs/2510.13786)
-  - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal 
+  - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
   - Jian Hu, Mingjie Liu, Ximing Lu, Fang Wu, Zaid Harchaoui, Shizhe Diao, Yejin Choi, Pavlo Molchanov, Jun Yang, Jan Kautz, Yi Dong
 - [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
