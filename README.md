@@ -6,6 +6,7 @@ This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and 
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## OpenAI Docs
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
 
