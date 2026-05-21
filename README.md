@@ -98,7 +98,6 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [NVIDIA] [Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)
 - [Skywork] [Skywork R1V2](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)
 - [rLLM] [DeepScaler](https://github.com/agentica-project/rllm)
-- [AI Models Catalog] [Reasoning models with pricing & capabilities](https://github.com/i-need-token/ai-models) — Structured YAML catalog of AI models across providers
 - [NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
 - [GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey)
 - [OpenO1 Team] [Open-Source O1](https://opensource-o1.github.io/)
@@ -123,6 +122,9 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [Sea AI Lab] [Dr. GRPO](https://github.com/sail-sg/understand-r1-zero)
 - [Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 - [Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
+
+### Resources
+- [i-need-token] [AI Models Catalog](https://github.com/i-need-token/ai-models) — Structured YAML catalog of reasoning models with pricing and capabilities
 
 ## Papers
 
