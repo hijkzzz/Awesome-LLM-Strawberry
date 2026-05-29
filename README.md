@@ -106,6 +106,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - [CUHK-SZ] [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 ### Codebase
+- [Das-rebel] [A3M Router](https://github.com/Das-rebel/a3m-router) - #1 LLM routing benchmark & cheapest router with memory. Parallel multi-LLM execution, 47+ providers, ensemble voting. ([RouterArena #1](https://github.com/RouteWorks/RouterArena/pull/113))
 - [OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh)
 - [NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL)
