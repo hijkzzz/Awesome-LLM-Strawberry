@@ -194,6 +194,11 @@ format:
   - Qwen Team
 - [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/abs/2510.13786)
   - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal 
+- [Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://arxiv.org/abs/2510.04265)
+  - Mohsen Hariri, Amirhossein Samandar, Michael Hinczewski, Vipin Chaudhary
+  - ICLR 2026
+  - Code: [Scorio](https://github.com/mohsenhariri/scorio)
+  - Evaluation: repeated-trial performance estimates and uncertainty on AIME'24/'25, HMMT'25, and BrUMO'25
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
   - Jian Hu, Mingjie Liu, Ximing Lu, Fang Wu, Zaid Harchaoui, Shizhe Diao, Yejin Choi, Pavlo Molchanov, Jun Yang, Jan Kautz, Yi Dong
 - [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
