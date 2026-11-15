@@ -87,6 +87,10 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/d3fd109b-0c97-4a94-931e-919b3b2f75f4" width="360px">
 - <img src="https://github.com/user-attachments/assets/88896f70-017d-4520-ac56-370a023cfe45" width="360px">
 
+- [[Vincent Koc]](https://x.com/vincent_koc)
+- [<img src="https://github.com/user-attachments/assets/acd2f4fe-854d-4ecc-84d3-1a484f585447" alt="o1 possible-outcomes diagram" width="360px">](https://x.com/vincent_koc/status/1834439551844319609)
+- [<img src="https://github.com/user-attachments/assets/2ff373ce-a3db-46bc-ac15-c5c7d4b799de" alt="Tree-of-prompts diagram" width="360px">](https://x.com/vincent_koc/status/1834440019580456971)
+
 </details>
 
 ## Open-source
@@ -185,15 +189,15 @@ format:
 
 ### 2025
 - [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf)
-  - NVIDIA 
+  - NVIDIA
 - [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory](https://www.arxiv.org/abs/2512.12967)
-  - Qwen Team 
+  - Qwen Team
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/pdf/2511.22570v1)
-  - DeepSeek-AI 
+  - DeepSeek-AI
 - [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/pdf/2512.01374)
   - Qwen Team
 - [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/abs/2510.13786)
-  - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal 
+  - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
   - Jian Hu, Mingjie Liu, Ximing Lu, Fang Wu, Zaid Harchaoui, Shizhe Diao, Yejin Choi, Pavlo Molchanov, Jun Yang, Jan Kautz, Yi Dong
 - [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
