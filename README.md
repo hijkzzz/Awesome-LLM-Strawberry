@@ -183,6 +183,10 @@ format:
   - Skywork
 
 
+### 2026
+- [More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs (PACE)](https://huggingface.co/papers/2611.17610) ([Code](https://github.com/mahmoudsajjadi/pace) | [Studio](https://huggingface.co/spaces/sajjadi/pace-studio))
+  - Seyed Mahmoud Sajjadi Mohammadabadi
+
 ### 2025
 - [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf)
   - NVIDIA 
